@@ -2,7 +2,7 @@
   "apps": [
     {
       "beta": false,
-      "bundleIdentifier": "com.SideStore.SideStore",
+      "bundleIdentifier": "com.sideStore.sideStore",
       "developerName": "SideStore Team",
       "downloadURL": "https://github.com/SideStore/SideStore/releases/download/nightly/SideStore.ipa",
       "iconURL": "https://raw.githubusercontent.com/SideStore/SideStore/77eaa2fb5a01a8d581d4c97d5b2012f120700424/AltStore/Resources/Assets.xcassets/SideStore.imageset/1024.png",

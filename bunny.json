@@ -1,7 +1,7 @@
 {
   "name": "Pyoncord App Repo",
   "identifier": "io.github.pyoncord.repo",
-  "subtitle": "Official source for Pyoncord apps",
+  "subtitle": "Pyoncord official source",
   "apps": [
     {
       "name": "Bunny",
@@ -9,46 +9,66 @@
       "developerName": "Pylix",
       "localizedDescription": "A client mod for Discord",
       "iconURL": "https://pyoncord.github.io/assets/icon-altstore.png",
-      "tintColor": "7289da",
       "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v258.0/Bunny.ipa",
       "versions": [
         {
           "version": "258.0",
           "date": "2024-12-12",
-          "localizedDescription": "Latest Bunny client mod for Discord",
+          "localizedDescription": "Latest stable release of Bunny client mod",
           "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v258.0/Bunny.ipa"
         },
         {
           "version": "257.0",
           "date": "2024-12-04",
-          "localizedDescription": "Updated Bunny client mod for Discord",
+          "localizedDescription": "Improved stability and bug fixes",
           "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v257.0/Bunny.ipa"
+        },
+        {
+          "version": "256.0",
+          "date": "2024-11-28",
+          "localizedDescription": "Added new emoji reactions feature",
+          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v256.0/Bunny.ipa"
+        },
+        {
+          "version": "255.0",
+          "date": "2024-11-20",
+          "localizedDescription": "UI improvements and performance updates",
+          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v255.0/Bunny.ipa"
         }
-        // Additional versions can follow this format
       ]
     },
     {
       "name": "Bunny (TestFlight)",
       "bundleIdentifier": "com.hammerandchisel.discord.testflight",
       "developerName": "Pylix",
-      "localizedDescription": "A client mod for Discord (TestFlight builds)",
+      "localizedDescription": "TestFlight version of the Bunny client mod",
       "iconURL": "https://pyoncord.github.io/assets/icon-altstore.png",
-      "tintColor": "7289da",
       "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v260.0_68870/Bunny.ipa",
       "versions": [
         {
           "version": "260.0_68870",
           "date": "2024-12-15",
-          "localizedDescription": "TestFlight build with latest updates",
+          "localizedDescription": "Latest TestFlight build with experimental features",
           "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v260.0_68870/Bunny.ipa"
         },
         {
           "version": "259.0_68755",
           "date": "2024-12-13",
-          "localizedDescription": "Bug fixes and improvements",
+          "localizedDescription": "Bug fixes and minor enhancements",
           "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v259.0_68755/Bunny.ipa"
+        },
+        {
+          "version": "258.0_68700",
+          "date": "2024-12-10",
+          "localizedDescription": "Performance improvements for voice channels",
+          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v258.0_68700/Bunny.ipa"
+        },
+        {
+          "version": "257.0_68650",
+          "date": "2024-12-08",
+          "localizedDescription": "Improved compatibility with Discord's latest update",
+          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v257.0_68650/Bunny.ipa"
         }
-        // Additional versions can follow this format
       ]
     }
   ],

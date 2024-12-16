@@ -15,25 +15,29 @@
           "version": "258.0",
           "date": "2024-12-12",
           "localizedDescription": "Latest stable release of Bunny client mod",
-          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v258.0/Bunny.ipa"
+          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v258.0/Bunny.ipa",
+          "size": 10485760
         },
         {
           "version": "257.0",
           "date": "2024-12-04",
           "localizedDescription": "Improved stability and bug fixes",
-          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v257.0/Bunny.ipa"
+          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v257.0/Bunny.ipa",
+          "size": 10485760
         },
         {
           "version": "256.0",
           "date": "2024-11-28",
           "localizedDescription": "Added new emoji reactions feature",
-          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v256.0/Bunny.ipa"
+          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v256.0/Bunny.ipa",
+          "size": 10485760
         },
         {
           "version": "255.0",
           "date": "2024-11-20",
           "localizedDescription": "UI improvements and performance updates",
-          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v255.0/Bunny.ipa"
+          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v255.0/Bunny.ipa",
+          "size": 10485760
         }
       ]
     },
@@ -49,25 +53,29 @@
           "version": "260.0_68870",
           "date": "2024-12-15",
           "localizedDescription": "Latest TestFlight build with experimental features",
-          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v260.0_68870/Bunny.ipa"
+          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v260.0_68870/Bunny.ipa",
+          "size": 10485760
         },
         {
           "version": "259.0_68755",
           "date": "2024-12-13",
           "localizedDescription": "Bug fixes and minor enhancements",
-          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v259.0_68755/Bunny.ipa"
+          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v259.0_68755/Bunny.ipa",
+          "size": 10485760
         },
         {
           "version": "258.0_68700",
           "date": "2024-12-10",
           "localizedDescription": "Performance improvements for voice channels",
-          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v258.0_68700/Bunny.ipa"
+          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v258.0_68700/Bunny.ipa",
+          "size": 10485760
         },
         {
           "version": "257.0_68650",
           "date": "2024-12-08",
           "localizedDescription": "Improved compatibility with Discord's latest update",
-          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v257.0_68650/Bunny.ipa"
+          "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v257.0_68650/Bunny.ipa",
+          "size": 10485760
         }
       ]
     }
